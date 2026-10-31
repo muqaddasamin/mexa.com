@@ -2,7 +2,12 @@
 
 **Your Intelligence. Your Assistant.**
 
-MEXA.COM is an AI-powered study assistant designed to help students learn smarter and improve their productivity.
+## 👩‍💻 About MEXA.COM
+
+MEXA.COM is an AI-powered learning platform built to make studying smarter, easier, and more productive.
+
+Designed for students who want to learn, explore, and grow with AI and improve their productivity.
+
 
 ## 🚀 Features
 
@@ -25,8 +30,22 @@ MEXA.COM is an AI-powered study assistant designed to help students learn smarte
 
 [Open MEXA.COM](https://mexa2026studyassistant.streamlit.app)
 
-## 👩‍💻 Developer
+## 👩‍💻 About MEXA.COM
 
-Created as a Computer Science semester project.
+MEXA.COM is an AI-powered learning platform built to make studying smarter, easier, and more productive.
 
-**MEXA.COM – Your Intelligence. Your Assistant.**
+Designed for students who want to learn, explore, and grow with AI.
+
+## 👩‍💻 Founder & Developer
+
+**Muqaddas Amin**
+
+Creator and Developer of MEXA.COM.
+
+Passionate about Artificial Intelligence, software development, and building smart solutions that make learning easier.
+
+---
+
+**MEXA.COM © 2026 | Built with Passion.**
+
+
