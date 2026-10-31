@@ -360,6 +360,12 @@ div[data-testid="stAlert"] {
 # ---------- HEADER ----------
 st.title("📚 MEXA.COM")
 st.write("Your Intelligence. Your Assistant")
+
+st.markdown(
+    "MEXA.COM is an AI Study Assistant that helps students "
+    "with learning, notes, quizzes, PDFs and presentations."
+)
+
 st.divider()
 
 
