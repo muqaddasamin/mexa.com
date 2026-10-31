@@ -11,7 +11,7 @@ from ai_engine import ask_ai, ask_ai_stream
 # ---------- PAGE SETTINGS ----------
 st.set_page_config(
     page_title="MEXA.COM | AI LEARNER",
-    page_icon="🎓",
+    page_icon="⚜️",
     layout="wide",
     initial_sidebar_state="expanded"
 )
