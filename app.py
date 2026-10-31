@@ -18,31 +18,13 @@ st.set_page_config(
 
 
 # ---------- CHAT MEMORY ----------
-MEMORY_FILE = "chat_memory.json"
 
-
-def load_chat_history():
-    if os.path.exists(MEMORY_FILE):
-        try:
-            with open(MEMORY_FILE, "r", encoding="utf-8") as file:
-                return json.load(file)
-        except (json.JSONDecodeError, OSError):
-            return []
-    return []
+if "chat_history" not in st.session_state:
+    st.session_state.chat_history = []
 
 
 def save_chat_history():
-    with open(MEMORY_FILE, "w", encoding="utf-8") as file:
-        json.dump(
-            st.session_state.chat_history,
-            file,
-            ensure_ascii=False,
-            indent=2
-        )
-
-
-if "chat_history" not in st.session_state:
-    st.session_state.chat_history = load_chat_history()
+    pass
 
 
 # ---------- MEXA.COM BEAUTIFUL UI ----------
